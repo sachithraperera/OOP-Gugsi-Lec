@@ -7,17 +7,17 @@ public class ListPractice {
     private static final int size = 4;
     static void main(String[] args) {
 
-        List<Object> object = new ArrayList<>();
-
-        object.add(10);
-        object.add(10);
-        object.add("Sachithra");
-        object.add(23.65);
-        System.out.println(object);
-
+//        List<Object> object = new ArrayList<>();
+//
+//        object.add(10);
+//        object.add(10);
+//        object.add("Sachithra");
+//        object.add(23.65);
+//        System.out.println(object);
+//
 //        for(Object num:object){
 //            System.out.println(num);
-//        }
+//       }
 
         List <Integer> numbers = new LinkedList<>();
 

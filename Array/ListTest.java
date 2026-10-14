@@ -35,7 +35,7 @@ public class ListTest {
 
         for (int i = 0; i < size; i++) {
             System.out.print("Enter the number for the index " + i + ":");
-            numbers.add(sc.nextInt());
+                numbers.add(sc.nextInt());
         }
         System.out.println("Before Sorting");
         // how to sort the list numbers
